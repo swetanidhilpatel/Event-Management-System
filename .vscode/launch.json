@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://www.matangievent.com/AdminAddTickets",
+            "request": "launch",
+            "url": "https://www.matangievent.com/AdminAddTickets"
+        }
+    ]
+}
